@@ -1,5 +1,4 @@
 require 'action_pack'
-require 'active_support/core_ext/string/inflections'
 
 module RoutingFilter
   autoload :Filter,     'routing_filter/filter'
